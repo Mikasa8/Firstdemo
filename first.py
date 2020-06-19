@@ -3,4 +3,5 @@ num2 = 90
 result = num1 + num2
 print(result)
 class peoper():
+num10 = 100
 
