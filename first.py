@@ -10,5 +10,5 @@ if __name__='__main__':
 
 class peoper():
 num10 = 100
-
+num11 = 110
 
