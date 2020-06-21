@@ -8,6 +8,7 @@ import socket
 if __name__='__main__':
     tcp_client_socket = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 
+<<<<<<< HEAD
 class peoper():
 num10 = 100
 num11 = 110
@@ -27,3 +28,11 @@ class name:
 	self.name = name 
 	
 name('周安邦')
+
+class Peoper():
+  def info(self):
+    print('在交公粮')
+laohei = Peoper()
+laohei.info()
+print(laohei)
+
